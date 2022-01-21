@@ -1,4 +1,4 @@
-# greatest-common-divisor: from cryptohack
+CryptoHack: Greatest common divisor
 <br>
 <br>
 Question:
